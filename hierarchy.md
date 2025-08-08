@@ -1,30 +1,38 @@
 # Structure of HARMONY連
 
-## HARMONY連
-
-The group is divided into multiple departments:
-
-- **Game Development Department / 遊開発部 (GDD)**
-- **Research and Development Department / 研究開発部 (RDD)**
-- **Partnerships and Marketing Department (PMD)**
-
-All departments report to the **Omni Administrator**, the owner of the group and the highest authority.
-
-> **NOTE:** All departments may collaborate on shared projects as needed.
-
----
-
 ## Table of Contents
 
-- [Structure of HARMONY連](#structure-of-harmony連)
-  - [HARMONY連](#harmony連)
-  - [Table of Contents](#table-of-contents)
-  - [Omni Administrator](#omni-administrator)
-  - [Game Development Department (GDD) / 遊開発部](#game-development-department-gdd--遊開発部)
-  - [Research and Development Department (RDD) / 研究開発部](#research-and-development-department-rdd--研究開発部)
-  - [Partnerships and Marketing Department (PMD)](#partnerships-and-marketing-department-pmd)
+- **[Structure of HARMONY連](#structure-of-harmony連)**
+  - **[HARMONY連](#harmony連)**
+  - **[Table of Contents](#table-of-contents)**
+  - **[Concordia](#concordia)**
+  - **[Omni Administrator](#omni-administrator)**
+  - **[Game Development Department (GDD) / 遊開発部](#game-development-department-gdd--遊開発部)**
+  - **[Research and Development Department (RDD) / 研究開発部](#research-and-development-department-rdd--研究開発部)**
+  - **[Partnerships and Marketing Department (PMD)](#partnerships-and-marketing-department-pmd)**
+  - **[Additional info](#additional-info)**
 
----
+## HARMONY連
+During the initial establishment of the working group, it will follow the following hierarchy,
+where the **Omni Administrator** takes the initial lead over all administrating positions.  
+
+Most importantly, we ask respect and availability from collaborators.
+
+The group is divided into multiple departments:
+- **[Game Development Department (GDD) / 遊開発部](#game-development-department-gdd--遊開発部)**
+- **[Research and Development Department (RDD) / 研究開発部](#research-and-development-department-rdd--研究開発部)**
+- **[Partnerships and Marketing Department (PMD)](#partnerships-and-marketing-department-pmd)**
+
+All departments report to the **Omni Administrator**, the owner of the group and the highest authority.
+For critical aspects, complaints or information, refer to the **Omni Administrator**.
+
+> **NOTE:** All departments can collaborate on shared projects as needed.
+
+
+## Concordia
+The working group's council, where all administrators are invoked for critical matters.
+Such discussions are subject to public view for transparency.
+
 
 ## Omni Administrator
 
@@ -86,3 +94,8 @@ All departments report to the **Omni Administrator**, the owner of the group and
 - Promote the group’s projects and identity
 - Maintain social media and public presence
 - Handle financial and legal matters
+
+
+## Additional info
+Every member of any department can propose a project, and it shall be scrutinized in the local department with foreign departments.
+Whoever believes the presence of obstructionism, refer to the **Omni Administrator**.
