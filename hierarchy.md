@@ -23,14 +23,14 @@ The group is divided into multiple departments:
 - **[Research and Development Department (RDD) / 研究開発部](#research-and-development-department-rdd--研究開発部)**
 - **[Partnerships and Marketing Department (PMD)](#partnerships-and-marketing-department-pmd)**
 
-All departments report to the **Omni Administrator**, the owner of the group and the highest authority.
+All departments report to the **Omni Administrator**, the owner of the group and the highest authority.  
 For critical aspects, complaints or information, refer to the **Omni Administrator**.
 
 > **NOTE:** All departments can collaborate on shared projects as needed.
 
 
 ## Concordia
-The working group's council, where all administrators are invoked for critical matters.
+The working group's council, where all administrators are invoked for critical matters.  
 Such discussions are subject to public view for transparency.
 
 
@@ -97,5 +97,5 @@ Such discussions are subject to public view for transparency.
 
 
 ## Additional info
-Every member of any department can propose a project, and it shall be scrutinized in the local department with foreign departments.
+Every member of any department can propose a project, and it shall be scrutinized in the local department with or without foreign departments.
 Whoever believes the presence of obstructionism, refer to the **Omni Administrator**.
